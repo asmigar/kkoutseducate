@@ -7,8 +7,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/view.jpg
   actions:
-    - label: "FOLLOW US"
-      url: "https://www.instagram.com/kkouts_educate/"
+    - label: "Enquire"
+      url: "https://wa.me/917985602808"
   caption: "[**Where is this?**](https://maps.app.goo.gl/j9vHCBQNn5jG8vNo6)"
 feature_row:
   - image_path: /assets/logo.jpeg
